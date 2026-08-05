@@ -1,0 +1,14 @@
+C:\Users\lftin\source\repos\ColecoesDados\bin\Debug\net10.0\ColecoesDados.exe
+C:\Users\lftin\source\repos\ColecoesDados\bin\Debug\net10.0\ColecoesDados.deps.json
+C:\Users\lftin\source\repos\ColecoesDados\bin\Debug\net10.0\ColecoesDados.runtimeconfig.json
+C:\Users\lftin\source\repos\ColecoesDados\bin\Debug\net10.0\ColecoesDados.dll
+C:\Users\lftin\source\repos\ColecoesDados\bin\Debug\net10.0\ColecoesDados.pdb
+C:\Users\lftin\source\repos\ColecoesDados\obj\Debug\net10.0\ColecoesDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lftin\source\repos\ColecoesDados\obj\Debug\net10.0\ColecoesDados.AssemblyInfoInputs.cache
+C:\Users\lftin\source\repos\ColecoesDados\obj\Debug\net10.0\ColecoesDados.AssemblyInfo.cs
+C:\Users\lftin\source\repos\ColecoesDados\obj\Debug\net10.0\ColecoesDados.csproj.CoreCompileInputs.cache
+C:\Users\lftin\source\repos\ColecoesDados\obj\Debug\net10.0\ColecoesDados.dll
+C:\Users\lftin\source\repos\ColecoesDados\obj\Debug\net10.0\refint\ColecoesDados.dll
+C:\Users\lftin\source\repos\ColecoesDados\obj\Debug\net10.0\ColecoesDados.pdb
+C:\Users\lftin\source\repos\ColecoesDados\obj\Debug\net10.0\ColecoesDados.genruntimeconfig.cache
+C:\Users\lftin\source\repos\ColecoesDados\obj\Debug\net10.0\ref\ColecoesDados.dll
