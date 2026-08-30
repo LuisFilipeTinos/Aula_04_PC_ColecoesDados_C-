@@ -12,3 +12,4 @@ C:\Users\lftin\source\repos\ColecoesDados\obj\Debug\net10.0\refint\ColecoesDados
 C:\Users\lftin\source\repos\ColecoesDados\obj\Debug\net10.0\ColecoesDados.pdb
 C:\Users\lftin\source\repos\ColecoesDados\obj\Debug\net10.0\ColecoesDados.genruntimeconfig.cache
 C:\Users\lftin\source\repos\ColecoesDados\obj\Debug\net10.0\ref\ColecoesDados.dll
+C:\Users\lftin\source\repos\ColecoesDados\obj\Debug\net10.0\ColecoesDados.sourcelink.json

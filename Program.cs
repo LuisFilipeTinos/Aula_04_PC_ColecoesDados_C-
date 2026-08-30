@@ -99,3 +99,37 @@ alunos.RemoveAt(0);             // remove pelo índice
 
 bool contem = alunos.Contains("Isabele"); // true
 int total = alunos.Count;                 // quantidade de elementos
+
+//Percorrendo a lista
+foreach (int num in numeros2)
+{
+    Console.WriteLine(num + " ");
+}
+
+// Criando um dictionary onde a chave é string e o valor é int
+Dictionary<string, int> nums = new Dictionary<string, int>();
+
+// Adicionando elementos
+nums.Add("Ana", 25);
+nums.Add("Bruno", 30);
+nums["Carla"] = 28; // outra forma de adicionar/atualizar
+
+Console.WriteLine($"Idade da Ana: {nums["Ana"]}");
+
+// Verificando se uma chave existe (evita exceção)
+if (nums.ContainsKey("Bruno"))
+{
+    Console.WriteLine($"Bruno tem {nums["Bruno"]} anos");
+}
+
+// Removendo um item
+nums.Remove("Bruno");
+
+// Percorrendo todo o dictionary
+Console.WriteLine("\nTodos os registros:");
+foreach (KeyValuePair<string, int> item in nums)
+{
+    Console.WriteLine($"{item.Key}: {item.Value} anos");
+}
+
+Console.WriteLine($"\nTotal de pessoas: {nums.Count}");
